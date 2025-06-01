@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently learning **Power BI** & **SQL**
+- 🔭 I’m currently learning **Machine Learning Models** & **SQL**
 - 💬 Ask me about **Data Analytics**
 - 📫 Reach me at **gsamridhi1602@gmail.com**
 - ⚡ Fun fact: _I talk to data more than people—thankfully, it always has a story to tell!_
